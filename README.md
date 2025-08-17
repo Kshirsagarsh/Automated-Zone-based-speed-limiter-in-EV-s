@@ -1,2 +1,2 @@
 # Automated-Zone-based-speed-limiter-in-EV-s
-This project uses RF technology to automatically limit the speed of electric vehicles in restricted zones like school areas.
+This project uses RF technology to automatically limit the speed of electric vehicles in restricted zones like school areas. Using RF transmitters at designated locations and RF receivers in vehicles, the system detects entry into speedrestricted zones and electronically limits the vehicle's speed by interfacing with its speedometer, ensuring safe driving without manual enforcement.
